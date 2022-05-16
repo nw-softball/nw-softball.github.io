@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-title = "Tella"
-author = "username"
+baseURL = "https://nw-softball.github.io"
+title = "Northwest Softball"
+author = "organizers"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -29,17 +29,17 @@ enableRobotsTXT = true
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "Northwest Softball Leauge"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
     fa5 = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "A proposal page for Northwest Softball Leauge"
+    meta_og_title = "Northwest Softball Leauge"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
+    meta_og_url = "https://nw-softball.github.io"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
     meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
     meta_twitter_card = "summary_large_image"
